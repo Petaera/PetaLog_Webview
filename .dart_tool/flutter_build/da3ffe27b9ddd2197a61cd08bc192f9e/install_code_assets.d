@@ -1,0 +1,1 @@
+ C:\\D\\Petaera\ Technologies\\Petalog\\Petalog_Webview\\.dart_tool\\flutter_build\\da3ffe27b9ddd2197a61cd08bc192f9e\\native_assets.json: 
